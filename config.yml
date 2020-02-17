@@ -29,9 +29,9 @@ links:
   - name: "maker.rip"
     icon: "fab fa-twitter"
     url: "https://twitter.com/maker.rip/"
-  - name: "monumental.me"
+  - name: "monumental_me"
     icon: "fab fa-twitter"
-    url: "https://twitter.com/monumental.me/"
+    url: "https://twitter.com/monumental_me/"
 
 # Services
 # First level array represent a group.
