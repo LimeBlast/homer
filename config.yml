@@ -121,3 +121,8 @@ services:
         subtitle: "Customer relation management"
         tag: "crm"
         url: "https://app.hubspot.com/"
+      - name: "MailerLite"
+        logo: "assets/tools/mailerlite.png"
+        subtitle: "Email subscription"
+        tag: "email"
+        url: "https://app.mailerlite.com/"
