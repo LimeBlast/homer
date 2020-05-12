@@ -18,11 +18,14 @@ logo: "assets/logo.png"
 # Optional navbar
 links:
   - name: "YNAB"
-    icon: "fab fa-piggy-bank"
+    icon: "fas fa-piggy-bank"
     url: "https://app.youneedabudget.com/"
   - name: "Halifax"
-    icon: "fab fa-money-check"
+    icon: "fas fa-money-check"
     url: "https://www.halifax-online.co.uk/personal/logon/login.jsp"
+  - name: "Super Simple RGB WiFi Lamp"
+    icon: "fas fa-lightbulb"
+    url: "http://super-simple-rgb-wifi-lamp.local/"
 
 # Services
 # First level array represent a group.
