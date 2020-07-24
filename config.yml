@@ -57,7 +57,7 @@ services:
         url: "https://amigo.collige.re/"
       - name: "Support Timers"
         logo: "assets/tools/amigo.jpg"
-        subtitle: "Customer tracking tool"
+        subtitle: "Support tracking tool"
         tag: "customer"
         url: "https://amigo.collige.re/timers"
       - name: "Helpscout"
