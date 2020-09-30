@@ -32,6 +32,9 @@ links:
   - name: "Company Scorecard"
     icon: "fas fa-building"
     url: "https://docs.google.com/spreadsheets/d/1SKg12ujiDqjuT58W-JrFyt95DCDLim6-8kX7_w6gyMA/edit#gid=0"
+  - name: "Roam Research"
+    icon: "fas fa-file-alt"
+    url: "https://roamresearch.com/#/app/LimeBlast"
 
 # Services
 # First level array represent a group.
@@ -150,7 +153,7 @@ services:
         logo: "assets/tools/mailjet.jpg"
         subtitle: "Email subscription"
         tag: "email"
-        url: "https://app.mailerlite.com/"
+        url: "https://app.mailjet.com/dashboard"
       - name: "Square"
         logo: "assets/tools/square.png"
         subtitle: "Payment Gateway"
